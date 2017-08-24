@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+the quick brown fox jumps over the lazy dog!
+the quick brown fox jumps over the lazy dog!
+
+=======
+God I know it was you!
+God I know it was you!
+God I know it was you!
+God I know it was you!
+God I know it was you!
+God I know it was you!
+God I know it was you!
+God I know it was you!
+>>>>>>> parent of e4f0906... This is my second update of the file
